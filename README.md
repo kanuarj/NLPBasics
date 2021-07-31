@@ -9,7 +9,7 @@ List of comprehensive NLP Tutorials. You can find the entire playlist <a href="h
 List of Tutorials 
 
 1. <a href="https://youtu.be/CHQ7FUTfG8o">Tokenization</a>
-
+2. <a href="https://youtu.be/Cgy1oRxtLJ0">Stop Words</a>
 
 <hr>
 
