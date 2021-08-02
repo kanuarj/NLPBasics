@@ -10,6 +10,7 @@ List of Tutorials
 
 1. <a href="https://youtu.be/CHQ7FUTfG8o">Tokenization</a>
 2. <a href="https://youtu.be/Cgy1oRxtLJ0">Stop Words</a>
+3. <a href="https://youtu.be/XBxqFP45_mE">POS Tagging</a>
 
 <hr>
 
