@@ -12,6 +12,7 @@ List of Tutorials
 2. <a href="https://youtu.be/Cgy1oRxtLJ0">Stop Words</a>
 3. <a href="https://youtu.be/XBxqFP45_mE">POS Tagging</a>
 4. <a href="https://youtu.be/wThqcWF5MC0">Stemming</a>
+5. <a href="https://youtu.be/csGI0HdR0ZA">Lemmatization</a>
 
 <hr>
 
